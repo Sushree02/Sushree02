@@ -1,3 +1,7 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+I'm+Sushree+Soumya+Priyadarshini;AI+%26+Cybersecurity+Enthusiast;Always+learning+new+things!&center=true&size=28">
+</h1>
+
 # 💫 About Me:
 🎓 CSE student exploring AI/ML and modern technologies.<br><br>🔐 Currently learning cybersecurity and system protection basics.<br><br>💡 Enjoy solving real-world problems through simple projects.<br><br>🚀 Always curious, always learning ,building my skills step by step.<br>
 
