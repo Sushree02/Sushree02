@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+I'm+Sushree&center=true&size=34">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+I'm+Sushree&center=true&size=30">
 </h1>
 
 # 💫 About Me:
